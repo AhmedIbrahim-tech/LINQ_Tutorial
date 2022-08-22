@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FuncationalProgramming
+namespace ES02_FuncationalProgramming
 {
     public static class Repository
     {

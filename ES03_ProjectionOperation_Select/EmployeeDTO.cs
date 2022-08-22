@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ES03_ProjectionOperation_Select
+namespace ES04_ProjectionOperation_Select
 {
     internal class EmployeeDTO
     {

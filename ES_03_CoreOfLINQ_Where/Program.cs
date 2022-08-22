@@ -1,6 +1,6 @@
 ﻿#region LINQWhere_Ex01
 
-using FuncationalProgramming;
+using ES02_FuncationalProgramming;
 
 var employees = Repository.LoadEmployee();
 var FnameStartsWithSwithFilter = employees
