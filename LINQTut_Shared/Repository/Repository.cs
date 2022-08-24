@@ -10,6 +10,17 @@ namespace LINQTut_Shared.Repository
     public static class Repository
     {
 
+        public static IEnumerable<Department> LoadDepartment()
+        {
+            return new List<Department> {
+                new Department { Id = 1, Name = "FINANCE" },
+                new Department { Id = 2, Name = "IT" },
+                new Department { Id = 3, Name = "HR" },
+                new Department { Id = 4, Name = "ACCOUNTING" },
+                new Department { Id = 5, Name = "SALES" }
+            };
+        }
+
         public static IEnumerable<Employee> LoadEmployees()
         {
             return new List<Employee>
