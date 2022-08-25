@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ES11_ElementOperations", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES12_EqualityOperations", "ES12_EqualityOperations\ES12_EqualityOperations.csproj", "{258FBEC5-DCE4-44AE-B180-4A2DD7E65039}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES13_Concatenation", "ES13_Concatenation\ES13_Concatenation.csproj", "{DEFBA29D-DA63-4338-AE0B-9B8A52D0A694}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{258FBEC5-DCE4-44AE-B180-4A2DD7E65039}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{258FBEC5-DCE4-44AE-B180-4A2DD7E65039}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{258FBEC5-DCE4-44AE-B180-4A2DD7E65039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFBA29D-DA63-4338-AE0B-9B8A52D0A694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFBA29D-DA63-4338-AE0B-9B8A52D0A694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFBA29D-DA63-4338-AE0B-9B8A52D0A694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFBA29D-DA63-4338-AE0B-9B8A52D0A694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
