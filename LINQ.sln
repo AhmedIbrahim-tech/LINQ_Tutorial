@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ES08_GroupBy", "ES08_GroupB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ES09_JoinOperations", "ES09_JoinOperations\ES09_JoinOperations.csproj", "{A8C0B78E-C837-498F-91AC-A7EC46D6F1C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES10_GenerationOperations", "ES10_GenerationOperations\ES10_GenerationOperations.csproj", "{8979A9DA-F640-49E1-9D1C-5EA245F61ADC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ES10_GenerationOperations", "ES10_GenerationOperations\ES10_GenerationOperations.csproj", "{8979A9DA-F640-49E1-9D1C-5EA245F61ADC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES11_ElementOperations", "ES11_ElementOperations\ES11_ElementOperations.csproj", "{76EA024A-F521-480F-9D83-BBFD2B90CAC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ES11_ElementOperations", "ES11_ElementOperations\ES11_ElementOperations.csproj", "{76EA024A-F521-480F-9D83-BBFD2B90CAC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES12_EqualityOperations", "ES12_EqualityOperations\ES12_EqualityOperations.csproj", "{258FBEC5-DCE4-44AE-B180-4A2DD7E65039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{76EA024A-F521-480F-9D83-BBFD2B90CAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76EA024A-F521-480F-9D83-BBFD2B90CAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76EA024A-F521-480F-9D83-BBFD2B90CAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258FBEC5-DCE4-44AE-B180-4A2DD7E65039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258FBEC5-DCE4-44AE-B180-4A2DD7E65039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258FBEC5-DCE4-44AE-B180-4A2DD7E65039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258FBEC5-DCE4-44AE-B180-4A2DD7E65039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
