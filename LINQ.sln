@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES12_EqualityOperations", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES13_Concatenation", "ES13_Concatenation\ES13_Concatenation.csproj", "{DEFBA29D-DA63-4338-AE0B-9B8A52D0A694}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES14_AggregateOperations", "ES14_AggregateOperations\ES14_AggregateOperations.csproj", "{F7010E53-2A0C-4138-8F6B-AD7D64A7BCC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{DEFBA29D-DA63-4338-AE0B-9B8A52D0A694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEFBA29D-DA63-4338-AE0B-9B8A52D0A694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEFBA29D-DA63-4338-AE0B-9B8A52D0A694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7010E53-2A0C-4138-8F6B-AD7D64A7BCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7010E53-2A0C-4138-8F6B-AD7D64A7BCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7010E53-2A0C-4138-8F6B-AD7D64A7BCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7010E53-2A0C-4138-8F6B-AD7D64A7BCC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
