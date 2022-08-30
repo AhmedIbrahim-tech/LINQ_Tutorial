@@ -15,6 +15,7 @@ namespace ES06_DataPartitioning
 
             if (size <= 0)
                 size = 1;
+
             var Total = sourse.Count();
 
             var pages = Convert.ToInt32( Math.Ceiling( Convert.ToDecimal( Total / size)));

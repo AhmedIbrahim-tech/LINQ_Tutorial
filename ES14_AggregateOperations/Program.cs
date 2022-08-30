@@ -107,7 +107,7 @@ var ResultAverageQuiz = MaxQuiz.Average(x => x.Title.Length);
 
 Console.WriteLine("\n---------------------- Average of Quiz ------------------------");
 
-Console.WriteLine($"Average of Quiz is : {ResultAverageQuiz} ");
+Console.WriteLine($"Average of Quiz is : {ResultAverageQuiz.ToString("#.##")} ");
 
 
 #endregion

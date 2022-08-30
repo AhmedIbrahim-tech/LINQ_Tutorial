@@ -44,6 +44,17 @@ namespace LINQTut_Shared.Repository
         }
 
 
+        public static void PrintMeeting<T>(this IEnumerable<T> source, string title)
+        {
+            var defaultColor = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine($"\n{title}\n");
+            Console.ForegroundColor = defaultColor;
+
+            foreach (var item in source)
+                Console.WriteLine($"{item}");
+        }
+
         public class Print_Space
         {
             public static void Space(string title)
